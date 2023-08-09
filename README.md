@@ -1,4 +1,4 @@
-# BestBuy(clone)
+# BestBuy
 
 Best Buy is an American multinational consumer electronics retailer.
 
